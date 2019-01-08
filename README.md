@@ -1,12 +1,12 @@
-# NODEVFEE-CLAYMOREMiNER-11.8-NoFee
+# NODEVFEE-CLAYMOREMiNER-12.0-NoFee
 DevFee Removed,Executable is patched so you don't have to do anything, just start mining, 
 
-download : https://mirrorace.com/m/1r7w5
+download : https://github.com/digitalpara/NODEVFEE-CLAYMOREMiNER-12.0-NoFee
 
 Claymore's Dual Ethereum + Decred/Siacoin/Lbry/Pascal/Blake2s/Keccak AMD+NVIDIA GPU Miner.
 =========================
 
-Latest version is v11.8:
+Latest version is v12.0:
 
 - fixed issue with missed GPU temperatures when miner is started via Remote Desktop Connection (RDC).
 - Linux version: removed libcurl library dependency.
@@ -14,7 +14,7 @@ Latest version is v11.8:
 - a few minor bug fixes and improvements.
 
 
-This is a Claymore v11.8 ethereum/DCR dual miner with dev fee removed.
+This is a Claymore v12.0 ethereum/DCR dual miner with dev fee removed.
 
 Executable is patched so you don't have to do anything, just start mining.
 
@@ -26,9 +26,9 @@ How will I know this is working? In your pool You will see a new worker named "c
 
 Does this work for future releases of Claymore ? No, I will manually update future Claymore releases.
 
-I'm getting lower hashrate with your Claymore than original. Run it for at least 24 hours so that pool statistics even out from downtime where You swapped to Claymore 11.7 No Fee
+I'm getting lower hashrate with your Claymore than original. Run it for at least 24 hours so that pool statistics even out from downtime where You swapped to Claymore v12.0 No Fee
 
-Latest version is v11.8:
+Latest version is v12.0:
 
 added temperature management and overclock support for recent Nvidia cards in Windows: "-tt", "-powlim", "-cclock", "-mclock", "-tt", "-fanmax", "-fanmin" options are supported for Nvidia too.
 now "y" key also disables CrossFire.
